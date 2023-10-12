@@ -1,0 +1,11 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.bg-light {
+  background-color: #edf4ff !important;
+}
+
+#hero h1 {
+  font-size: 4rem;
+}
